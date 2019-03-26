@@ -122,6 +122,7 @@ body {
     font-size: 13px;
     font-weight: 600;
     color: rgba(92, 94, 89, 1);
+    text-decoration: none;
     cursor: pointer;
 }
 
